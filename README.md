@@ -1,6 +1,9 @@
 # deploy-cli-win-service
-根据原作者的项目修改而来，自用，原作者：https://github.com/fuchengwei
-前端一键自动化部署脚手架服务，支持开发、测试、生产多环境配置。配置好后一键即可自动完成部署。(服务器为windows适用，linux服务器可找原作者项目https://github.com/fuchengwei/deploy-cli-service)
+根据原作者的项目修改而来，针对windows服务前端一键部署，目前自用，原作者：https://github.com/fuchengwei
+
+前端一键自动化部署脚手架服务，支持开发、测试、生产多环境配置。配置好后一键即可自动完成部署。
+
+(服务器为windows适用，linux服务器可找原作者项目https://github.com/fuchengwei/deploy-cli-service)
 
 ### github
 

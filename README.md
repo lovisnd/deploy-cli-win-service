@@ -1,5 +1,5 @@
 # deploy-cli-win-service
-根据原作者的项目修改而来，针对windows服务前端一键部署，目前自用，原作者：https://github.com/fuchengwei
+前端项目一键部署服务器，针对windows服务前端一键部署（目前代码只适用于windows服务器）
 
 前端一键自动化部署脚手架服务，支持开发、测试、生产多环境配置。配置好后一键即可自动完成部署。
 
